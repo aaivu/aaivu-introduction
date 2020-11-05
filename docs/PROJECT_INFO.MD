@@ -11,10 +11,12 @@
     1. Name (talk forum profile link)
     2. Name (talk forum profile link)
 
-### Usefull Links
+<b>Usefull Links </b>
 
 - GitHub : <project_url>
 - Talk Forum : <talk_forum_link>
+
+---
 
 ## Summary
 
