@@ -30,6 +30,10 @@ Visit Aaivu Talk forum at https://talk.aaivu.org/ for our discussion platform an
 
 Please visit to our [Projects page][aaivu_projects_url] to get more details. 
 
+# Code of Conduct
+
+We expect you to carefully go through our Code of Conduct documentation to pledge befor making participation to our project and community. Please visit to our [Code of Conduct page][aaivu_cod_url] to get more details. 
+
 # Help desk
 
 Please reach us via this Help Desk form to request access to the documentatio for edit/write access and Github write access. You can always browse anonymously, but we are now manually granting some access to prevent spam.
@@ -39,3 +43,4 @@ Please reach us via this Help Desk form to request access to the documentatio fo
 [aaivu_projects_url]: https://github.com/aaivu/aaivu-introduction/blob/master/PROJECTS.MD
 [aaivu_2020_projects_url]: https://github.com/aaivu/aaivu-introduction/blob/master/PROJECTS.MD
 [aaivu_talk_url]: https://talk.aaivu.org
+[aaivu_cod_url]: https://
