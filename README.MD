@@ -43,4 +43,4 @@ Please reach us via this Help Desk form to request access to the documentatio fo
 [aaivu_projects_url]: https://github.com/aaivu/aaivu-introduction/blob/master/PROJECTS.MD
 [aaivu_2020_projects_url]: https://github.com/aaivu/aaivu-introduction/blob/master/PROJECTS.MD
 [aaivu_talk_url]: https://talk.aaivu.org
-[aaivu_cod_url]: https://
+[aaivu_cod_url]: https://github.com/aaivu/aaivu-introduction/blob/master/docs/code_of_conduct.md
