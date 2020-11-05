@@ -26,10 +26,16 @@ Visit Aaivu Talk forum at https://talk.aaivu.org/ for our discussion platform an
 
 # Projects
 
-Please visit to our Projects page to get more details.
+[![](https://img.shields.io/badge/-Go%20to%20Aaivu%20Projects-grey)][aaivu_projects_url]  [![](https://img.shields.io/badge/-Go%20to%20Aaivu%202020%20Projects-grey)][aaivu_2020_projects_url]
+
+Please visit to our [Projects page][aaivu_projects_url] to get more details. 
 
 # Help desk
 
 Please reach us via this Help Desk form to request access to the documentatio for edit/write access and Github write access. You can always browse anonymously, but we are now manually granting some access to prevent spam.
 
-- If you have any community related questions, please ask in the [Aaivu Talk forum](https://talk.aaivu.org)
+- If you have any community related questions, please ask in the [Aaivu Talk forum][aaivu_talk_url]
+
+[aaivu_projects_url]: https://github.com/aaivu/aaivu-introduction/blob/master/PROJECTS.MD
+[aaivu_2020_projects_url]: https://github.com/aaivu/aaivu-introduction/blob/master/PROJECTS.MD
+[aaivu_talk_url]: https://talk.aaivu.org
