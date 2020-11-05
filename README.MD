@@ -1,13 +1,11 @@
 # Aaivu
 
 <p align="center">
-<img src="./images/aaivu-logo.jpg" alt="envone-ui" align="center" />
+<img src="./images/aaivu-logo-wide.jpg" alt="envone-ui" align="center" />
 </p>
 
 
-&nbsp;
- 
-&nbsp;
+
 
 # Welcome to Aaivu organization
 
