@@ -1,7 +1,7 @@
 # Aaivu
 
 <p align="center">
-<img src="./images/aaivu.png" alt="envone-ui" align="center" />
+<img src="./images/aaivu-logo.jpg" alt="envone-ui" align="center" />
 </p>
 
 
