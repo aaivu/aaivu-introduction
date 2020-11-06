@@ -36,7 +36,11 @@ We expect you to carefully go through our Code of Conduct documentation to pledg
 
 # Help desk
 
-Please reach us via this Help Desk form to request access to the documentation for edit/write access and Github write access. You can always browse anonymously, but we are now manually granting some access to prevent spam.
+[![](https://img.shields.io/badge/-Create%20GitHub%20Access%20Request-grey)][github_access_request]
+[![](https://img.shields.io/badge/-Create%20GitHub%20New%20Project%20Request-grey)][github_new_project]
+[![](https://img.shields.io/badge/-Create%20Common%20Request-grey)][common_request]
+
+Please reach us via this [Help Desk form][aaivu_help_desk] to request access to the documentation for edit/write access and Github write access. You can always browse anonymously, but we are now manually granting some access to prevent spam.
 
 - If you have any community related questions, please ask in the [Aaivu Talk forum][aaivu_talk_url]
 
@@ -44,3 +48,8 @@ Please reach us via this Help Desk form to request access to the documentation f
 [aaivu_2020_projects_url]: https://github.com/aaivu/aaivu-introduction/blob/master/PROJECTS.MD
 [aaivu_talk_url]: https://talk.aaivu.org
 [aaivu_cod_url]: https://github.com/aaivu/aaivu-introduction/blob/master/docs/code_of_conduct.md
+[aaivu_help_desk]: https://github.com/aaivu/aaivu-introduction/blob/master/HELP_DESK.MD
+
+[github_access_request]: https://docs.google.com/forms/d/e/1FAIpQLSckX_eLMExKfwAQdsY-OzSfWnTwRBDOmupgZRzDGTEtGh53jg/viewform?usp=sf_link
+[github_new_project]: https://docs.google.com/forms/d/e/1FAIpQLSeBhLIcmb7vwEi_L521lQMCcn7M173EcFCAGVh8Ty_pxQEUHQ/viewform?usp=sf_link
+[common_request]: https://docs.google.com/forms/d/e/1FAIpQLSdqQj94a9w5k5nLS3VQBC3fxrRu5vUv5eUXS8Di9jyaK1jxlw/viewform?usp=sf_link
