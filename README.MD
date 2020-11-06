@@ -36,7 +36,7 @@ We expect you to carefully go through our Code of Conduct documentation to pledg
 
 # Help desk
 
-Please reach us via this Help Desk form to request access to the documentatio for edit/write access and Github write access. You can always browse anonymously, but we are now manually granting some access to prevent spam.
+Please reach us via this Help Desk form to request access to the documentation for edit/write access and Github write access. You can always browse anonymously, but we are now manually granting some access to prevent spam.
 
 - If you have any community related questions, please ask in the [Aaivu Talk forum][aaivu_talk_url]
 
